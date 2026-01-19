@@ -7,17 +7,15 @@ Early-game friendly Bitburner scripts focused on readable automation (rooting + 
 - `wgh.js` — weaken/grow/hack loop for basic money
 - `nuke.js` — scan from `home`, use available port openers, run `NUKE.exe`, print a summary
 
-## Quick start (in-game)
-Download into Bitburner:
-```txt
-wget https://raw.githubusercontent.com/Headsec/bitburner-scripts/main/nuke.js
-wget https://raw.githubusercontent.com/Headsec/bitburner-scripts/main/wg.js
-wget https://raw.githubusercontent.com/Headsec/bitburner-scripts/main/wgh.js
+## COPY and Paste in game
+- https://raw.githubusercontent.com/Headsec/bitburner-scripts/main/nuke.js
+- https://raw.githubusercontent.com/Headsec/bitburner-scripts/main/wg.js
+- https://raw.githubusercontent.com/Headsec/bitburner-scripts/main/wgh.js
 ```
 
 Run:
 ```txt
-run nuke.js 5
+run nuke.js 2
 run wg.js foodnstuff
 run wgh.js n00dles
 ```
